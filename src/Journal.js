@@ -11,6 +11,14 @@ export default function Journal(props) {
           alt="loc"
         />
         <span>{props.location}</span>
+        <a href="View on Google maps">{props.googleMapsUrl}</a>
+        <h1>{props.title}</h1>
+        <p>
+          <span className="bold">
+            {props.startDate}-{props.endDate}
+          </span>
+        </p>
+        <p>{props.description}</p>
       </div>
     </div>
   );
