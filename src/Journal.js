@@ -3,7 +3,7 @@ import React from "react";
 export default function Journal(props) {
   return (
     <div className="journal">
-      <img src=
+      <img src={`../images/${props.location-icon}`}
       <div className="jounal-badge"></div>
     </div>
   );
