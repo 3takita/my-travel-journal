@@ -1,12 +1,11 @@
 export default [
   {
     id: 1,
-    title: "Statue of the writer, Emily Carr.",
+    title: `Statue of the writer, Emily Carr.`,
     location: "Victoria, Canada",
     googleMapsUrl: `https://www.google.com/maps/place/Emily+Carr+Statue/@48.4207966,-123.3685855,15z/data=!4m12!1m6!3m5!1s0x0:0xc03db40c8f4c266b!2sEmily+Carr+Statue!8m2!3d48.4207966!4d-123.3685855!3m4!1s0x0:0xc03db40c8f4c266b!8m2!3d48.4207966!4d-123.3685855`,
-      "https://www.google.com/maps/search/machu+picchu,+Alaska/@34.8424922,-95.6964972,4z/data=!3m1!4b1",
-    startDate: "15 June, 2019",
-    endDate: "17 June, 2019",
+    startDate: `15 June, 2019`,
+    endDate: `17 June, 2019`,
     description: `While touring Victoria's colorful beholds, we came upon this statue of one of Canada's famous artist and writer, Emily Carr.
     Her heart and hands were inspired to art and writing by the Indigenous peoples of the Pacific Northwest Coast.`,
     img: `img_3761.jpeg`
