@@ -7,24 +7,27 @@ nav {
   background-color: red;
   align-items: center;
   color: white;
-  justify-content: center; /* centes the contents */
+  justify-content: center; /* centers the contents */
 }
 .nav-logo {
   height: 40px;
   margin-right: 7px;
 }
 .journal-img {
-  height: 200px;
-  width: 150px;
+  height: 250px;
+  width: 200px;
   margin-right: 20px;
   border-radius: 10px;
 }
 .journal-loc {
-  height: 20px;
+  height: 16px;
+  width: 14px;
+  margin-right: 7px;
 }
 .journal {
   display: flex;
   padding: 40px;
+  font-weight: 300px;
 }
 .loca {
   margin-right: 7px;

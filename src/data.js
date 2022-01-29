@@ -18,9 +18,8 @@ export default [
     startDate: "17 June, 2019",
     endDate: "18 June, 2019",
     description: `The cruise ship, Norwegian Joy, is a Breakaway Plus-class cruise ship in the fleet of cruise ships operated by Norwegian Cruise Line.
-     It is one of four Breakaway Plus-class vessels in the company's fleet. Joy was built by Meyer Werft in Papenburg, Germany, and was delivered in April 2017. According to Wikipedia
-    Joy's construction started: April 5, 2016 and she was launched March 4, 2017. Her length is 1,094 feet with a capacity of 3,883.
-    Her cost as at 2013 was €700 million ($780.17). She is still in service, and we had the priveillege of Joy-cruising!!!`,
+     It is one of four Breakaway Plus-class vessels in the company's fleet. Her length is 1,094 feet with a capacity of 3,883.
+    Her cost as at 2013 was €700 million ($780.17). We had the priveillege of Joy-cruising!!!`,
     coverImg: "IMG_3735.jpeg"
   },
   {
