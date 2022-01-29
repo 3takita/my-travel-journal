@@ -8,7 +8,7 @@ export default function Navbar() {
         className="nav-logo"
         alt="The World"
       />
-      <h2>my travel journal.</h2>
+      <h3>my travel journal.</h3>
     </nav>
   );
 }

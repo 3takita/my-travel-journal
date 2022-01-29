@@ -1,3 +1,4 @@
+import "./styles.css";
 import React from "react";
 import Navbar from "./Navbar";
 import data from "./data";
@@ -13,7 +14,7 @@ export default function App() {
         startDate={item.startDate}
         endDate={item.endDate}
         description={item.description}
-        img={item.img}
+        img={item.coverImg}
       />
     );
   });
@@ -25,3 +26,32 @@ export default function App() {
     </div>
   );
 }
+
+/*
+import Card from "./components/Card"
+import data from "./data"
+
+
+export default function App() {
+            // <Hero />
+    const cards = data.map(item => {
+        return (
+            <Card 
+                img={item.coverImg}
+                rating={item.stats.rating}
+                reviewCount={item.stats.reviewCount}
+                location={item.location}
+                title={item.title}
+                price={item.price}
+            />
+        )
+    })        
+    
+    return (
+        <div>
+            <Navbar />
+            {cards}
+        </div>
+    )
+}
+*/

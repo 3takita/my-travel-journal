@@ -5,8 +5,24 @@
 nav {
   display: flex;
   background-color: red;
-  justify-content: center;
+  align-items: center;
+  color: white;
+  justify-content: center; /* centes the contents */
 }
 .nav-logo {
-  height: 10px;
+  height: 40px;
+  margin-right: 7px;
+}
+.journal-img {
+  height: 200px;
+  width: 150px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.journal-loc {
+  height: 20px;
+}
+.journal {
+  display: flex;
+  padding: 40px;
 }

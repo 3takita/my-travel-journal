@@ -8,7 +8,7 @@ export default [
     endDate: `17 June, 2019`,
     description: `While touring Victoria's colorful beholds, we came upon this statue of one of Canada's famous artist and writer, Emily Carr.
     Her heart and hands were inspired to art and writing by the Indigenous peoples of the Pacific Northwest Coast.`,
-    img: `img_3761.jpeg`
+    coverImg: "IMG_3761.jpeg"
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export default [
      It is one of four Breakaway Plus-class vessels in the company's fleet. Joy was built by Meyer Werft in Papenburg, Germany, and was delivered in April 2017. According to Wikipedia
     Joy's construction started: April 5, 2016 and she was launched March 4, 2017. Her length is 1,094 feet with a capacity of 3,883.
     Her cost as at 2013 was €700 million ($780.17). She is still in service, and we had the priveillege of Joy-cruising!!!`,
-    img: `img_3735.jpeg.`
+    coverImg: "IMG_3735.jpeg"
   },
   {
     id: 3,
@@ -31,6 +31,6 @@ export default [
     startDate: "19 June, 2019",
     endDate: "20 June, 2019",
     description: `Juneau is the capital of Alaska, and for those who didn't know this, 'now you know.' We had a great time here.`,
-    img: `img_3715.jpeg`
+    coverImg: "IMG_3715.jpeg"
   }
 ];
