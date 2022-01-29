@@ -8,7 +8,8 @@ export default [
     endDate: `17 June, 2019`,
     description: `While touring Victoria's colorful beholds, we came upon this statue of one of Canada's famous artist and writer, Emily Carr.
     Her heart and hands were inspired to art and writing by the Indigenous peoples of the Pacific Northwest Coast.`,
-    coverImg: "IMG_3761.jpeg"
+    coverImg: "IMG_3761.jpeg",
+    bgImg: `https://thumbnails.production.thenounproject.com/E3QfhGSiuiBlSts-Z34g0z3U-A0=/fit-in/1000x1000/photos.production.thenounproject.com/photos/236592E4-6F6B-48F2-AD2A-CB60DC238498.jpg`
   },
   {
     id: 2,
@@ -20,7 +21,8 @@ export default [
     description: `The cruise ship, Norwegian Joy, is a Breakaway Plus-class cruise ship in the fleet of cruise ships operated by Norwegian Cruise Line.
      It is one of four Breakaway Plus-class vessels in the company's fleet. Her length is 1,094 feet with a capacity of 3,883.
     Her cost as at 2013 was €700 million ($780.17). We had the priveillege of Joy-cruising!!!`,
-    coverImg: "IMG_3735.jpeg"
+    coverImg: "IMG_3735.jpeg",
+    bgImg: `https://thumbnails.production.thenounproject.com/KiIPIswc57ZZYOtICABwtx4qmbw=/fit-in/1000x1000/photos.production.thenounproject.com/photos/77700379-1954-4F3A-A959-739A9D4AED00.jpg`
   },
   {
     id: 3,
@@ -30,6 +32,7 @@ export default [
     startDate: "19 June, 2019",
     endDate: "20 June, 2019",
     description: `Juneau is the capital of Alaska, and for those who didn't know this, 'now you know.' We had a great time here.`,
-    coverImg: "IMG_3715.jpeg"
+    coverImg: "IMG_3715.jpeg",
+    bgImg: `https://thumbnails.production.thenounproject.com/o3HOkVcQkOnoD7f1MB2pG6unoI4=/fit-in/1000x1000/photos.production.thenounproject.com/photos/F9C9CCE5-DFCF-4259-8AA6-BB55FB6FF5FD.jpg`
   }
 ];

@@ -4,7 +4,7 @@
 }
 nav {
   display: flex;
-  background-color: red;
+  background-color: rgb(230, 69, 69);
   align-items: center;
   color: white;
   justify-content: center; /* centers the contents */
@@ -13,6 +13,9 @@ nav {
   height: 40px;
   margin-right: 7px;
 }
+/*h1, p, h4 {
+  color: white;
+}*/
 .journal-img {
   height: 250px;
   width: 200px;
@@ -23,11 +26,13 @@ nav {
   height: 16px;
   width: 14px;
   margin-right: 7px;
+  opacity: 0.5;
 }
 .journal {
   display: flex;
   padding: 40px;
   font-weight: 300px;
+  background-image: url(https://thumbnails.production.thenounproject.com/dBT_I2REMQL2SLTz9lx7-XFojVM=/fit-in/1000x1000/photos.production.thenounproject.com/photos/BA33453B-D915-4F94-85C4-9AE557AD030D.jpg);
 }
 .loca {
   margin-right: 7px;
