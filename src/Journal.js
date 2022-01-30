@@ -14,7 +14,7 @@ export default function Journal(props) {
           <span className="loca">{props.location}</span>
         </b>
         <a href={props.googleMapsUrl}>View on Google Maps</a>
-        <h1>{props.title}</h1>
+        <h1 className="Journal-title">{props.title}</h1>
         <p>
           <b>
             <span className="bold">
@@ -22,7 +22,7 @@ export default function Journal(props) {
             </span>
           </b>
         </p>
-        <p>{props.description}</p>
+        <p className="journal-desc">{props.description}</p>
       </div>
     </div>
   );

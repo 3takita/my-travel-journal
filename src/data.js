@@ -14,7 +14,7 @@ export default [
   {
     id: 2,
     title: "Norwegian Joy",
-    location: "Skagway, Alaska - USA",
+    location: "Alaska - USA",
     googleMapsUrl: `https://www.google.com/maps/place/Skagway,+AK+99840/@59.5693737,-135.6376909,10z/data=!3m1!4b1!4m5!3m4!1s0x56aaa92500de9141:0x5e251777323a536a!8m2!3d59.4554025!4d-135.315279`,
     startDate: "17 June, 2019",
     endDate: "18 June, 2019",
@@ -26,7 +26,7 @@ export default [
   },
   {
     id: 3,
-    title: "Juneue, Alaska - USA",
+    title: "A view of Juneue",
     location: "Alaska, USA",
     googleMapsUrl: `https://www.google.com/maps/place/Juneau,+AK/@58.3801284,-135.3186773,8z/data=!3m1!4b1!4m5!3m4!1s0x5400de6c6f6a3a8f:0x65ef25aae69f311!8m2!3d58.3019444!4d-134.4197221`,
     startDate: "19 June, 2019",

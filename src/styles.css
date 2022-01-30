@@ -21,6 +21,15 @@ nav {
   width: 200px;
   margin-right: 20px;
   border-radius: 10px;
+  /*outline-style: solid;*/
+  box-shadow: 5px 5px 5px 5px grey;
+}
+.journal-title {
+  margin-top: 5px;
+  text-shadow: 5px 5px grey;
+}
+.journal-desc {
+  margin-top: -5px;
 }
 .journal-loc {
   height: 16px;
