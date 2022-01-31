@@ -6,8 +6,8 @@ export default [
     googleMapsUrl: `https://www.google.com/maps/place/Emily+Carr+Statue/@48.4207966,-123.3685855,15z/data=!4m12!1m6!3m5!1s0x0:0xc03db40c8f4c266b!2sEmily+Carr+Statue!8m2!3d48.4207966!4d-123.3685855!3m4!1s0x0:0xc03db40c8f4c266b!8m2!3d48.4207966!4d-123.3685855`,
     startDate: `15 June, 2019`,
     endDate: `17 June, 2019`,
-    description: `While touring Victoria's colorful beholds, we came upon this statue of one of Canada's famous artist and writer, Emily Carr.
-    Her heart and hands were inspired to art and writing by the Indigenous peoples of the Pacific Northwest Coast.`,
+    description: `While touring Victoria's colorful beholds, we came upon this statue of one of Canada's famous artist and writer, Emily Carr. Rising above her background of want, her hands were inspired to art and writing by the Indigenous peoples of the 
+    Pacific Northwest Coast. Her story shows how breakable the chains of poverty can be with a potent mind, a will and the right skill set. `,
     coverImg: "IMG_3761.jpeg",
     bgImg: `https://thumbnails.production.thenounproject.com/E3QfhGSiuiBlSts-Z34g0z3U-A0=/fit-in/1000x1000/photos.production.thenounproject.com/photos/236592E4-6F6B-48F2-AD2A-CB60DC238498.jpg`
   },
@@ -18,9 +18,8 @@ export default [
     googleMapsUrl: `https://www.google.com/maps/place/Skagway,+AK+99840/@59.5693737,-135.6376909,10z/data=!3m1!4b1!4m5!3m4!1s0x56aaa92500de9141:0x5e251777323a536a!8m2!3d59.4554025!4d-135.315279`,
     startDate: "17 June, 2019",
     endDate: "18 June, 2019",
-    description: `The cruise ship, Norwegian Joy, is a Breakaway Plus-class cruise ship in the fleet of cruise ships operated by Norwegian Cruise Line.
-     It is one of four Breakaway Plus-class vessels in the company's fleet. Her length is 1,094 feet with a capacity of 3,883.
-    Her cost as at 2013 was €700 million ($780.17). We had the priveillege of Joy-cruising!!!`,
+    description: `The cruise ship, Norwegian Joy is a 1,094 feet of fun floating luxuriantly on the ocean. The food, drinks, parties, shows, staff were amazing. And I can say the same for the 
+    memories my love and I made of every moment on board. We would have gone cruising again, but the pandemic is yet to get out of the way. When its safe again, we hope to do a Carribbean cruise too.`,
     coverImg: "IMG_3735.jpeg",
     bgImg: `https://thumbnails.production.thenounproject.com/KiIPIswc57ZZYOtICABwtx4qmbw=/fit-in/1000x1000/photos.production.thenounproject.com/photos/77700379-1954-4F3A-A959-739A9D4AED00.jpg`
   },
