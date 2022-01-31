@@ -3,6 +3,9 @@
   text-align: center;
 }
 nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
   display: flex;
   background-color: rgb(230, 69, 69);
   align-items: center;
