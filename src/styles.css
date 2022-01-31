@@ -1,4 +1,4 @@
-.App {
+* {
   font-family: sans-serif;
   text-align: center;
 }
@@ -13,15 +13,11 @@ nav {
   height: 40px;
   margin-right: 7px;
 }
-/*h1, p, h4 {
-  color: white;
-}*/
 .journal-img {
   height: 250px;
   width: 200px;
   margin-right: 20px;
   border-radius: 10px;
-  /*outline-style: solid;*/
   box-shadow: 5px 5px 5px 5px grey;
 }
 .journal-title {
@@ -42,6 +38,9 @@ nav {
   padding: 40px;
   font-weight: 300px;
   background-image: url(https://thumbnails.production.thenounproject.com/dBT_I2REMQL2SLTz9lx7-XFojVM=/fit-in/1000x1000/photos.production.thenounproject.com/photos/BA33453B-D915-4F94-85C4-9AE557AD030D.jpg);
+}
+.time {
+  margin-top: -5px;
 }
 .loca {
   margin-right: 7px;

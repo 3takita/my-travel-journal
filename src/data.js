@@ -31,7 +31,8 @@ export default [
     googleMapsUrl: `https://www.google.com/maps/place/Juneau,+AK/@58.3801284,-135.3186773,8z/data=!3m1!4b1!4m5!3m4!1s0x5400de6c6f6a3a8f:0x65ef25aae69f311!8m2!3d58.3019444!4d-134.4197221`,
     startDate: "19 June, 2019",
     endDate: "20 June, 2019",
-    description: `Juneau is the capital of Alaska, and for those who didn't know this, 'now you know.' We had a great time here.`,
+    description: `Juneau, the capital of Alaska, In a given year Juneau can receive as many as 900,000 cruise ship passengers and an additional 100,000 independent travelers.
+    , and yours truly has been one of them. Atop the local mountains is a giant ice field from which about 30 glaciers flow. The most famous of these glaciers is the Mendenhall Glacier, which can be seen from the local road system.`,
     coverImg: "IMG_3715.jpeg",
     bgImg: `https://thumbnails.production.thenounproject.com/o3HOkVcQkOnoD7f1MB2pG6unoI4=/fit-in/1000x1000/photos.production.thenounproject.com/photos/F9C9CCE5-DFCF-4259-8AA6-BB55FB6FF5FD.jpg`
   }

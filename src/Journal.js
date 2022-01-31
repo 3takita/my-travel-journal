@@ -17,8 +17,10 @@ export default function Journal(props) {
         <h1 className="Journal-title">{props.title}</h1>
         <p>
           <b>
-            <span className="bold">
-              {props.startDate} - {props.endDate}
+            <span>
+              <p className="time">
+                {props.startDate} - {props.endDate}
+              </p>
             </span>
           </b>
         </p>
